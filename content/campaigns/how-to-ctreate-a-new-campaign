@@ -1,7 +1,36 @@
+
 Creating a campaign in Fluentos is very straightforward.  
 Here are the steps you need to follow once you log into your Fluentos dashboard.  
 1. Click on the **Add New Campaign** button. 
 
-
 ![Add New Campaign Button](https://github.com/KhadijaPhool/Fluentos/blob/0c281495d64f1d38286ce3c0fdd77482b8a0e5df/assets/create-new-campaign/create-campaign-step1.jpg)
+
+2. You will be navigated to a campaign creation page where you need to do the following:  
+* Select the website to which you want to publish your campaign.  
+* Enter the campaign name.  
+* Select the campaign's purpose from the given **Objective** options given in the right-side panel. As soon as you checkmark an option, the design template options will be refreshed accordingly.  
+* Now, select the desired template from the given options.  
+💡If you do not want to select a template, you can create your own by selecting the layout options from the right panel.  
+* As soon as you select a design template or choose your own layout option, you will be navigated to the **Design** step.  
+
+![SelectObjective](https://github.com/KhadijaPhool/Fluentos/blob/18efcb81211dd88d0c7627e9b1ddb348a452b61d/assets/create-new-campaign/create-campaign-step2.jpg)
+
+3. On the **Design** step, you can customize the selected template using the design options. To switch to different design elements of the template, use the options in the left-side panel; their customization features will appear on the right-side panel. For example, if you want to edit the template's header, click "Header" in the left-side panel, and the header customizable features will appear in the right-side panel. For example, you can change the header's name, choose a different font and color for the text, and change the spacing of the text.  
+Once done, click **Next** to go to the publishing step.  
+
+![Design](https://github.com/KhadijaPhool/Fluentos/blob/18efcb81211dd88d0c7627e9b1ddb348a452b61d/assets/create-new-campaign/create-campaign-step3.jpg)
+
+4. In the last step, you can save the campaign and publish it immediately. To save it, click the **Save** button. Turn on the **Publish Online** toggle if you want to publish it. To view the output immediately, checkmark the option **Skip Priority Check.**  
+
+>💡 You can control the publishing behavior of the campaign using the **Campaign Triggers** given on the left side of the page.   
+
+![Publish](https://github.com/KhadijaPhool/Fluentos/blob/fad1b14e966d36f3eaf8719731c0eba1be291d83/assets/create-new-campaign/create-campaign-step04.jpg)
+
+5. Once the campaign is saved, you will be redirected to the **Campaigns** page where your newly created campaign will be listed at the top of the list. If you already published it, you can click the website link to visit and test it.  
+
+![Saved](https://github.com/KhadijaPhool/Fluentos/blob/fad1b14e966d36f3eaf8719731c0eba1be291d83/assets/create-new-campaign/create-campaign-step5.jpg)
+
+6. The image below displays how the configured popup campaign appears on the website.  
+
+![Published](https://github.com/KhadijaPhool/Fluentos/blob/fad1b14e966d36f3eaf8719731c0eba1be291d83/assets/create-new-campaign/create-campaign-step6.jpg)
 
